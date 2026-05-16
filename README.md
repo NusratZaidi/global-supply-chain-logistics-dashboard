@@ -10,3 +10,5 @@ Data Modeling & DAX: Created optimized calculated columns and dynamic business p
 Advanced AI Visuals: Implemented an interactive Decomposition Tree for dynamic root-cause analysis across different regions, product categories, and shipping methods.
 
 UI/UX Design: Designed an executive glassmorphic dark theme layout with custom slicers for maximum readability and responsive filtering.
+<img width="1164" height="650" alt="image" src="https://github.com/user-attachments/assets/a5f5f034-3f82-459c-a49b-5695e81234d0" />
+
